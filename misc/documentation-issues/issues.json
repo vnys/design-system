@@ -1,0 +1,299 @@
+[
+  {
+    "title": "Create documentation for Accordion",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Accordion](https://eds.equinor.com/components/accordion/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Buttons",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Buttons](https://eds.equinor.com/components/buttons/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Buttons Toggle",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Buttons Toggle](https://eds.equinor.com/components/buttons-toggle/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Cards",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Cards](https://eds.equinor.com/components/cards/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Chips",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Chips](https://eds.equinor.com/components/chips/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Date Picker",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Date Picker](https://eds.equinor.com/components/date-picker/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Divider",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Divider](https://eds.equinor.com/components/divider/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Links",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Links](https://eds.equinor.com/components/links/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Lists",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Lists](https://eds.equinor.com/components/lists/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Menu",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Menu](https://eds.equinor.com/components/menu/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation App launcher",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation App launcher](https://eds.equinor.com/components/navigation-app launcher/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Breadcrumbs",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Breadcrumbs](https://eds.equinor.com/components/navigation-breadcrumbs/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Navigation drawer",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Navigation drawer](https://eds.equinor.com/components/navigation-navigation drawer/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Pagination",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Pagination](https://eds.equinor.com/components/navigation-pagination/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Table of contents",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Table of contents](https://eds.equinor.com/components/navigation-table of contents/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Tabs",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Tabs](https://eds.equinor.com/components/navigation-tabs/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Navigation Top bar",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Navigation Top bar](https://eds.equinor.com/components/navigation-top bar/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Notification Banner",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Notification Banner](https://eds.equinor.com/components/notification-banner/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Notification Dialog",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Notification Dialog](https://eds.equinor.com/components/notification-dialog/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Notification Snackbar",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Notification Snackbar](https://eds.equinor.com/components/notification-snackbar/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Popovers",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Popovers](https://eds.equinor.com/components/popovers/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Progress indicators",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Progress indicators](https://eds.equinor.com/components/progress-indicators/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Search",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Search](https://eds.equinor.com/components/search/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Selection controls",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Selection controls](https://eds.equinor.com/components/selection-controls/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Scrim",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Scrim](https://eds.equinor.com/components/scrim/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Side sheet",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Side sheet](https://eds.equinor.com/components/side-sheet/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Slider",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Slider](https://eds.equinor.com/components/slider/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Stepper",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Stepper](https://eds.equinor.com/components/stepper/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Table",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Table](https://eds.equinor.com/components/table/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Text fields",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Text fields](https://eds.equinor.com/components/text-fields/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Tooltip",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Tooltip](https://eds.equinor.com/components/tooltip/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Typography",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Typography](https://eds.equinor.com/components/typography/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  },
+  {
+    "title": "Create documentation for Icon",
+    "labels": [
+      "documentation",
+      "react"
+    ],
+    "milestone": 6,
+    "body": "Write documentation for [Icon](https://eds.equinor.com/components/icon/)\n\n**Sub tasks**\n\n- [ ] Write documentation\n- [ ] Create examples\n- [ ] Add props-table\n- [ ] Add live preview"
+  }
+]

@@ -2,6 +2,7 @@ dependencies:
   '@equinor/eds-core-react': 'link:../../libraries/core-react'
   '@equinor/eds-icons': 'link:../../libraries/icons'
   '@equinor/eds-tokens': 'link:../../libraries/tokens'
+  '@storybook/addon-cssresources': 5.3.19_react-dom@16.13.1
   '@storybook/react': 5.3.19_a2ca6e9a5fc29e5f4ab9c875ee95f549
   babel-runtime: 6.26.0
   react-dom: 16.13.1_react@16.13.1
@@ -1373,6 +1374,20 @@ packages:
       react-dom: '*'
     resolution:
       integrity: sha512-gXF29FFUgYlUoFf1DcVCmH1chg2ElaHWMmCi5h7aZe+g6fXBQw0UtEdJnYLMOqZCIiWoZyuf1ETD0RbNHPhRIw==
+  /@storybook/addon-cssresources/5.3.19_react-dom@16.13.1:
+    dependencies:
+      '@storybook/addons': 5.3.19_react-dom@16.13.1
+      '@storybook/api': 5.3.19_react-dom@16.13.1
+      '@storybook/components': 5.3.19
+      '@storybook/core-events': 5.3.19
+      core-js: 3.6.5
+      global: 4.4.0
+      react: 16.13.1
+    dev: false
+    peerDependencies:
+      react-dom: '*'
+    resolution:
+      integrity: sha512-OJwRQhAEj8iTk/Rw735WX2A+c8W3KDpeLN4ogoPWxyyqiPGveLjdqi69xV+YxNKLQThOwBu/ak95sPoPK5F7XQ==
   /@storybook/addon-docs/5.3.19_b8648de7a62cf67d7f6b998a37da3cdd:
     dependencies:
       '@babel/generator': 7.10.2
@@ -1512,7 +1527,6 @@ packages:
       core-js: 3.6.5
       global: 4.4.0
       util-deprecate: 1.0.2
-    dev: true
     peerDependencies:
       react-dom: '*'
       regenerator-runtime: '*'
@@ -1570,7 +1584,6 @@ packages:
       store2: 2.11.2
       telejson: 3.3.0
       util-deprecate: 1.0.2
-    dev: true
     peerDependencies:
       react-dom: '*'
       regenerator-runtime: '*'
@@ -10157,6 +10170,7 @@ specifiers:
   '@mdx-js/loader': ^1.6.5
   '@storybook/addon-a11y': ^5.3.19
   '@storybook/addon-actions': ^5.3.19
+  '@storybook/addon-cssresources': ^5.3.19
   '@storybook/addon-docs': ^5.3.19
   '@storybook/addon-knobs': ^5.3.19
   '@storybook/addon-links': ^5.3.19

@@ -108,7 +108,7 @@ const Page = ({ data }) => {
             </H1>
 
             {withTabs && (
-              <nav aria-label="tabbed content naviagtion">
+              <nav aria-label="tabbed content navigation">
                 <ul className="Tabs">
                   {tabs.map((tab, index) => (
                     <li className="Tab" key={tab}>

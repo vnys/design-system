@@ -5,6 +5,7 @@ import json from '@rollup/plugin-json'
 import babel from '@rollup/plugin-babel'
 import polyfill from 'rollup-plugin-polyfill'
 import typescript from 'rollup-plugin-typescript2'
+import { eslint } from 'rollup-plugin-eslint'
 
 import pkg from './package.json'
 
@@ -31,6 +32,10 @@ export default [
     },
     plugins: [
       json(),
+      polyfill(['focus-visible']),
+      eslint({
+        exclude: ['node_modules', 'dist', 'focus-visible'],
+      }),
       resolve({ extensions }),
       typescript({ useTsconfigDeclarationDir: true }),
       babel({
@@ -44,7 +49,6 @@ export default [
         ],
       }),
       commonjs(),
-      polyfill(['focus-visible']),
     ],
     output: [
       { file: pkg.browser, name: pkg.name, format: 'umd', globals },

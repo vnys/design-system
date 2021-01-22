@@ -1,0 +1,15 @@
+name: Deploy Storybook
+on:
+  workflow_dispatch:
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          ref: 'storybook-github-actions-azure-blob'
+      - name: Install pnpm 📦  
+        uses: pnpm/action-setup@v1.2.1
+        with:
+          version: latest
